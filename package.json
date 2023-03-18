@@ -1,6 +1,6 @@
 {
-	"author": "Beyza Cetin",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Beyza Cetin",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
