@@ -3,8 +3,10 @@
 	"author": "Beyza Cetin",
 	"description": "A completed FCC course on backend dev & APIs",
 	"keywords": ["freecodecamp", "backend", "newProject"],
+	"license": "MIT",
+	"version": "1.3.8",
 	"dependencies": {
-		"express": "^4.14.0"
+		"@freecodecamp/example": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
