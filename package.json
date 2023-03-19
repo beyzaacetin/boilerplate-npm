@@ -1,8 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"description": "A completed FCC course on backend dev & APIs",
-	"keywords": ["FreeCodeCamp", "backend", "newProject"],
 	"author": "Beyza Cetin",
+	"description": "A completed FCC course on backend dev & APIs",
+	"keywords": ["freecodecamp", "backend", "newProject"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
